@@ -47,6 +47,15 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][1682ae0a-77c7-41af-bee8-45e713630703][0cd69270-2b53-4d09-a946-96c74dd2fca3]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][1682ae0a-77c7-41af-bee8-45e713630703][37303aa2-0eba-4b2a-ba7d-9d805e4d0a57]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][1682ae0a-77c7-41af-bee8-45e713630703][6f69a05a-238e-4ab6-be6c-a471e75615b7]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][1682ae0a-77c7-41af-bee8-45e713630703][bb9b507e-d3ee-4a91-a88f-6c6d171c7dc9]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][1682ae0a-77c7-41af-bee8-45e713630703][c486a37e-8610-4e62-8f9f-45247a64dcad]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -57,6 +66,15 @@ tiles={"layoutDirection":"horizontal","tiles":[{"layoutDirection":"floating","ti
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][4b1314a4-c1b8-4d39-ac47-a48c01e3a96b][0cd69270-2b53-4d09-a946-96c74dd2fca3]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][4b1314a4-c1b8-4d39-ac47-a48c01e3a96b][37303aa2-0eba-4b2a-ba7d-9d805e4d0a57]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][4b1314a4-c1b8-4d39-ac47-a48c01e3a96b][6f69a05a-238e-4ab6-be6c-a471e75615b7]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][4b1314a4-c1b8-4d39-ac47-a48c01e3a96b][bb9b507e-d3ee-4a91-a88f-6c6d171c7dc9]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][4b1314a4-c1b8-4d39-ac47-a48c01e3a96b][c486a37e-8610-4e62-8f9f-45247a64dcad]
@@ -86,6 +104,15 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][ee4d1e8b-3d40-4ce2-aaf9-f0c643a328cf][0cd69270-2b53-4d09-a946-96c74dd2fca3]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][ee4d1e8b-3d40-4ce2-aaf9-f0c643a328cf][37303aa2-0eba-4b2a-ba7d-9d805e4d0a57]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][ee4d1e8b-3d40-4ce2-aaf9-f0c643a328cf][6f69a05a-238e-4ab6-be6c-a471e75615b7]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][ee4d1e8b-3d40-4ce2-aaf9-f0c643a328cf][bb9b507e-d3ee-4a91-a88f-6c6d171c7dc9]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][ee4d1e8b-3d40-4ce2-aaf9-f0c643a328cf][c486a37e-8610-4e62-8f9f-45247a64dcad]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -103,3 +130,5 @@ Scale=1
 [org.kde.kdecoration2]
 BorderSize=None
 BorderSizeAuto=false
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Layan
