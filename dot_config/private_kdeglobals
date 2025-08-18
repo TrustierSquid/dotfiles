@@ -146,6 +146,9 @@ ColorSchemeHash=8ff306d9a93379c74540e00506966df24df1798b
 LastUsedCustomAccentColor=233,61,88
 UseSystemBell=true
 
+[Icons]
+Theme=Tela-dark
+
 [KDE]
 AnimationDurationFactor=0.5
 LookAndFeelPackage=com.github.vinceliuice.Layan
